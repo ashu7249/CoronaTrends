@@ -5,7 +5,7 @@ function renderChart(data, labels) {
 			data: {
 					labels: labels,
 					datasets: [{
-					label: 'Prenstly Working on dummy data',
+					label: 'Corona Patients',
 					data: data,
 					}]
 				},
